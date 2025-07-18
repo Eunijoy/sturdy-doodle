@@ -1,0 +1,2 @@
+# sturdy-doodle
+shopify theme
