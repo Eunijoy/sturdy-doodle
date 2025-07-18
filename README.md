@@ -1,3 +1,3 @@
 # sturdy-doodle
 shopify theme
-New update
+New update!
